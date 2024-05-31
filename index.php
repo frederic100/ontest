@@ -1,4 +1,3 @@
-test
+<?
 
-
-fsdfs
+echo "Hello !";
